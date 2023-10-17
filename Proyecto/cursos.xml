@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<Cursos>
+   <Cursos>
+      <Codigo>0147</Codigo>
+      <Nombre>Fisica Basica</Nombre>
+      <Catedratico/>BAYRON ARMANDO CUYAN CULAJAY</Catedratico>
+      <Horario/>12:20-13:10</Horario>
+      <Cupo/>
+      <Costo/>
+   </Cursos>
+   <Cursos>
+      <Codigo>039</Codigo>
+      <Nombre>Deportes 1</Nombre>
+      <Catedratico/>MARIO ENRIQUE RIVERA GONZALEZ</Nombre>
+      <Horario/>13:10-14:00</Horario>
+      <Cupo/>
+      <Costo/>
+   </Cursos>
+   <Cursos>
+      <Codigo>0101</Codigo>
+      <Nombre>Mate Basica 1</Nombre>
+      <Catedratico/>ERICKA JOHANA CANO DIAZ</Catedratico>
+      <Horario/>09:00-10:40</Horario>
+      <Cupo/>
+      <Costo/>
+   </Cursos>
+   <Cursos>
+      <Codigo>017</Codigo>
+      <Nombre>Social Humanistica 1</Nombre>
+      <Catedratico>ANA VELA CASTRO MELLADO</Catedratico>
+      <Horario>09:00-09:50</Horario>
+      <Cupo/>
+      <Costo/>
+   </Cursos>
+</Cursos>
