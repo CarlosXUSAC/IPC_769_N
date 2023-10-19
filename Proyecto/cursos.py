@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import xml.dom.minidom as minidom
 from tkinter import messagebox
 
-class ProfessorPanel:
+class CoursePanel:
     def __init__(self, root):
         self.root = root
         self.root.title("Registro de Cursos")
@@ -82,7 +82,7 @@ class ProfessorPanel:
             tree = ET.ElementTree(root)              
             
         # Crea un nuevo elemento XML para el curso
-        curso = ET.Element("Cursos")
+        curso = ET.Element("Curso")
         ET.SubElement(curso, "Codigo").text = codigo
         ET.SubElement(curso, "Nombre").text = nombre
         ET.SubElement(curso, "Catedratico").text = catedratico
@@ -115,10 +115,10 @@ class ProfessorPanel:
         pass   
 
     def logout(self):
-        # Implementa la lógica para cerrar sesión aquí
-        pass
+        self.root.destroy()
+        
 
 if __name__ == "__main__":
     root = tk.Tk()
-    professor_panel = ProfessorPanel(root)
+    course_panel = CoursePanel(root)
     root.mainloop()

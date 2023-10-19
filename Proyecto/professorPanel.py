@@ -88,7 +88,7 @@ class ProfessorPanel:
         professor = ET.Element("Professor")
         ET.SubElement(professor, "Nombre").text = nombre
         ET.SubElement(professor, "Apellido").text = apellido
-        ET.SubElement(professor, "DPI").text = dpi        
+        ET.SubElement(professor, "Usuario").text = dpi        
         ET.SubElement(professor, "Password").text = password_hash  # Almacena la contraseña encriptada
     
         # Agrega el elemento del estudiante a la estructura XML

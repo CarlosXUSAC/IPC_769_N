@@ -1,35 +1,51 @@
 <?xml version="1.0" ?>
 <Cursos>
-   <Cursos>
+   <Curso>
       <Codigo>0147</Codigo>
       <Nombre>Fisica Basica</Nombre>
-      <Catedratico/>BAYRON ARMANDO CUYAN CULAJAY</Catedratico>
-      <Horario/>12:20-13:10</Horario>
+      <Catedratico>Bayron Armando Cuyan Culajay</Catedratico>
+      <Horario>12:20-13:10</Horario>
       <Cupo/>
       <Costo/>
-   </Cursos>
-   <Cursos>
+   </Curso>
+   <Curso>
       <Codigo>039</Codigo>
       <Nombre>Deportes 1</Nombre>
-      <Catedratico/>MARIO ENRIQUE RIVERA GONZALEZ</Nombre>
-      <Horario/>13:10-14:00</Horario>
+      <Catedratico>Mario Emrique Rivera Gonzalez</Catedratico>
+      <Horario>13:10-14:00</Horario>
       <Cupo/>
       <Costo/>
-   </Cursos>
-   <Cursos>
+   </Curso>
+   <Curso>
       <Codigo>0101</Codigo>
       <Nombre>Mate Basica 1</Nombre>
-      <Catedratico/>ERICKA JOHANA CANO DIAZ</Catedratico>
-      <Horario/>09:00-10:40</Horario>
+      <Catedratico>Ericka Johana Cano Diaz</Catedratico>
+      <Horario>09:00-10:40</Horario>
       <Cupo/>
       <Costo/>
-   </Cursos>
-   <Cursos>
+   </Curso>
+   <Curso>
       <Codigo>017</Codigo>
       <Nombre>Social Humanistica 1</Nombre>
-      <Catedratico>ANA VELA CASTRO MELLADO</Catedratico>
+      <Catedratico>Ana Vela Castro Melladp</Catedratico>
       <Horario>09:00-09:50</Horario>
       <Cupo/>
       <Costo/>
-   </Cursos>
+   </Curso>
+   <Curso>
+      <Codigo>150</Codigo>
+      <Nombre>Fisica 1</Nombre>
+      <Catedratico>Bayron Armando Cuyan Culajay</Catedratico>
+      <Horario>07:10-8:00</Horario>
+      <Cupo/>
+      <Costo/>
+   </Curso>
+   <Curso>
+      <Codigo>0112</Codigo>
+      <Nombre>Matematica Intermedia 2</Nombre>
+      <Catedratico>Carlos Albero Garrido Lopez</Catedratico>
+      <Horario>09:00-09:50</Horario>
+      <Cupo/>
+      <Costo/>
+   </Curso>
 </Cursos>

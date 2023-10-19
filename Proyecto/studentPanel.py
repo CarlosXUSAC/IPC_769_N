@@ -68,8 +68,8 @@ class StudentPanel:
         self.register_button = tk.Button(self.root, text="Registrar", command=self.register)    #command=self.register
         self.register_button.grid(row=6, column=2, columnspan=2, padx=10, pady=10)
 
-        self.view_courses_button = tk.Button(self.root, text="Ver Cursos", command=self.view_courses)
-        self.view_courses_button.grid(row=6, column=3, columnspan=2, padx=10, pady=10)
+        # self.view_courses_button = tk.Button(self.root, text="Ver Cursos", command=self.view_courses)
+        # self.view_courses_button.grid(row=6, column=3, columnspan=2, padx=10, pady=10)
 
         self.salir_button = tk.Button(self.root, text="Salir", command=self.logout)  #command=self.logout
         self.salir_button.grid(row=6, column=4, padx=10, pady=10)
@@ -158,8 +158,7 @@ class StudentPanel:
         pass   
 
     def logout(self):
-        # Implementa la lógica para cerrar sesión aquí
-        pass
+        self.root.destroy()
 
 if __name__ == "__main__":
     root = tk.Tk()

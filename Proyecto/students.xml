@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <Students>
    <Student>
       <Nombre>Carlos</Nombre>
@@ -8,66 +7,46 @@
       <Telefono>54312689</Telefono>
       <Usuario>CarlosX</Usuario>
       <Correo>carloshrios@gmail.com</Correo>
-      <Password>123</Password>
-   </Student>
-   <Student>
-      <Nombre>Joel</Nombre>
-      <Apellido/>
-      <DPI/>
-      <Nacimiento/>
-      <Telefono/>
-      <Usuario/>
-      <Correo/>
-      <Password>3</Password>
-   </Student>
-   <Student>
-      <Nombre>Dany</Nombre>
-      <Apellido/>
-      <DPI/>
-      <Nacimiento/>
-      <Telefono/>
-      <Usuario>CarlosX</Usuario>
-      <Correo/>
-      <Password>123</Password>
-   </Student>
-   <Student>
-      <Nombre>Ruth</Nombre>
-      <Apellido/>
-      <DPI/>
-      <Nacimiento/>
-      <Telefono/>
-      <Usuario>RuthX</Usuario>
-      <Correo/>
-      <Password>234</Password>
-   </Student>
-   <Student>
-      <Nombre>Kevin</Nombre>
-      <Apellido/>
-      <DPI/>
-      <Nacimiento/>
-      <Telefono/>
-      <Usuario>KevinX</Usuario>
-      <Correo/>
-      <Password>123</Password>
+      <Password>3a7acb73057c34486635300477f42b9fdfc22e87c12f406e9de4862d796e4340</Password>
    </Student>
    <Student>
       <Nombre>Diego</Nombre>
       <Apellido>Rios</Apellido>
-      <DPI>3459868970101</DPI>
-      <Nacimiento>08082000</Nacimiento>
-      <Telefono>54688978</Telefono>
+      <DPI>3653978950101</DPI>
+      <Nacimiento>27082000</Nacimiento>
+      <Telefono>54312679</Telefono>
       <Usuario>DiegoX</Usuario>
-      <Correo>diegorios@hotmail.com</Correo>
-      <Password>123</Password>
-   </Student>
-   <Student>
-      <Nombre>Francisco</Nombre>
-      <Apellido>Mancilla</Apellido>
-      <DPI>3456899870101</DPI>
-      <Nacimiento>15041962</Nacimiento>
-      <Telefono>85967485</Telefono>
-      <Usuario>PacoX</Usuario>
-      <Correo>pacomancilla@gmail.com</Correo>
+      <Correo>diegoale@hotmail.com</Correo>
       <Password>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</Password>
    </Student>
+   <Student>
+      <Nombre>Daniel Alejandro</Nombre>
+      <Apellido>Rios Reinoso</Apellido>
+      <DPI>354679870101</DPI>
+      <Nacimiento>23102002</Nacimiento>
+      <Telefono>45689874</Telefono>
+      <Usuario>DanielX</Usuario>
+      <Correo>danielareinoso@hotmail.com</Correo>
+      <Password>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</Password>
+   </Student>
+   <Student>
+      <Nombre>Maria Alejandra</Nombre>
+      <Apellido>Reinoso Flores</Apellido>
+      <DPI>3456897850101</DPI>
+      <Nacimiento>17041979</Nacimiento>
+      <Telefono>56339846</Telefono>
+      <Usuario>AlejaRF</Usuario>
+      <Correo>mariale_reinoso@hotmail.com</Correo>
+      <Password>c7a7e13172ab127f9718fe07f54f7646e1a8a29cb07883fdf4abb4cc22aff12d</Password>
+   </Student>
+   <Student>
+      <Nombre>Carlos Alendro</Nombre>
+      <Apellido>Rios Reinoso</Apellido>
+      <DPI>5468956840101</DPI>
+      <Nacimiento>07121998</Nacimiento>
+      <Telefono>45687898</Telefono>
+      <Usuario>AlejoX</Usuario>
+      <Correo>alejoreinoso@gmail.com</Correo>
+      <Password>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</Password>
+   <Cursos><Curso>Social Humanistica 1</Curso></Cursos></Student>
 </Students>
